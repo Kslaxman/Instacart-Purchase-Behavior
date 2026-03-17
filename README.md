@@ -35,9 +35,6 @@
 - [Tech Stack](#-tech-stack)
 - [Methodology](#-methodology)
 - [Results & Insights](#-results--insights)
-- [Model Comparison](#-model-comparison)
-- [Advantages & Limitations](#-advantages--limitations)
-- [Conclusion](#-conclusion)
 
 
 
